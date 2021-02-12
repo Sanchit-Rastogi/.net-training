@@ -39,4 +39,7 @@ namespace DemoTrial
 
 //OOPS concepts
 // .net framework
+// Interface vs Abstract
+// What is an abstract class ?
+// What is an interface ?
 

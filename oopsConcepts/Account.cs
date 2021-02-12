@@ -3,8 +3,7 @@ using System.Collections.Generic;
 
 namespace oopsConcepts
 {
-    public class Account
-    {
+    public class Account { 
 
         public String Number { get; }
 
